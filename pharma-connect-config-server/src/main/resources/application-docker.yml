@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: pharma-connect-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ouhell/pharma-connect-config
+          default-label: main
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://registery:8761/eureka
+server:
+  port: 9000

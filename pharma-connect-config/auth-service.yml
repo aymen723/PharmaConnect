@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: pharma-connect-auth
+  datasource:
+    password: password
+    username: admin
+    url: jdbc:postgresql://localhost:5432/auth
+
+jwt:
+  secret_key: PxgfrbwwEfYXAf26-tZxhbXfez0ycDWhkPuOdmYGTqU
+  issuer: PharmaConnect
+  expire_duration: 48
+server:
+  port: 8070
+
+# Eureka
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+  # Zipkin
+management:
+  tracing:
+    sampling:
+      probability: 0.2

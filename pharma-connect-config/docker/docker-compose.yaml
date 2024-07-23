@@ -1,0 +1,47 @@
+name: pharma-connect-compose
+version: "1"
+services:
+  postgres:
+    container_name: pharma-db
+    image: pharma-postgres
+    networks:
+      - postgres-net
+    volumes:
+      - pharma-db:/data/postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+      PGDATA: /data/postgres
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+  pgadmin:
+    container_name: db-admin
+    image: dpage/pgadmin4
+    networks:
+      - postgres-net
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL:-pgadmin4@pdadmin.org}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD:-admin}
+      PGADMIN_CONFIG_SERVER_MODE: "False"
+    volumes:
+      - pgadmin-auth:/var/lib/pgadmin-auth
+    ports:
+      - "5050:80"
+    restart: unless-stopped
+  zipkin:
+    image: openzipkin/zipkin
+    container_name: zipkin
+    ports:
+      - 9411:9411
+    networks:
+      - pharma-net
+
+networks:
+  postgres-net:
+    driver: bridge
+  pharma-net:
+    driver: bridge
+volumes:
+  pharma-db:
+  pgadmin-auth:

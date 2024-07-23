@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: stock
+  config:
+    import:
+      - configserver:http://localhost:9000
+  datasource:
+    username: admin
+    password: password
+
+    url: jdbc:postgresql://localhost:5432/stock
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create
+
+server:
+  port: 8080
+

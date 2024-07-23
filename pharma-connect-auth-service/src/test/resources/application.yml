@@ -1,0 +1,68 @@
+spring:
+  config:
+    import:
+      - configserver:http://localhost:9000
+  #  profiles:
+  #    active: dev
+  application:
+    name: auth-service
+  #  jpa:
+  #    show-sql: true
+  #    hibernate:
+  #      ddl-auto: validate
+  #server:
+  #  port: 8070
+  datasource:
+    password: password
+    username: admin
+    url: jdbc:postgresql://192.168.1.7:5432/auth
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  profiles:
+    active: default
+stock-service-url: http://localhost:8090
+#
+#spring:
+#  application:
+#    name: pharma-connect-auth
+
+#
+#jwt:
+#  secret_key: PxgfrbwwEfYXAf26-tZxhbXfez0ycDWhkPuOdmYGTqU
+#  refresh:
+#    expire_duration: 7
+#  issuer: PharmaConnect
+#  expire_duration: 1
+#  server:
+#    token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJQaGFybWFDb25uZWN0Iiwic3ViIjoiYXV0aCIsInJvbGUiOiJTRVJWSUNFIiwidG9rZW5UeXBlIjoiQUNDRVNTIiwiaWF0IjoxNzE3NTIxODI1fQ.GUFVMowGCL079hkURCHSyMMS3ZSO2pXVsEjXHrxX_cI
+#
+#server:
+#  port: 8070
+#
+## Eureka
+#eureka:
+#  client:
+#    fetch-registry: true
+#    register-with-eureka: true
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka
+#
+#  # Zipkin
+#management:
+#  tracing:
+#    sampling:
+#      probability: 0.2
+#resilience4j:
+#  circuitbreaker:
+#    instances:
+#      stockBreaker:
+#        register-health-indicator: true
+#        sliding-window-size: 10
+#        minimum-number-of-calls: 5
+#        permitted-number-of-calls-in-half-open-state: 3
+#        wait-duration-in-open-state:
+#          seconds: 10
+#        failure-rate-threshold: 50
+#        automatic-transition-from-open-to-half-open-enabled: true
+#        sliding-window-type: count_based

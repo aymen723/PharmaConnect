@@ -1,0 +1,68 @@
+spring:
+  application:
+    name: pharma-connect-gateway
+  cloud:
+    # Gateway
+    gateway:
+      default-filters:
+        - DedupeResponseHeader=Access-Control-Allow-Credentials Access-Control-Allow-Origin
+      globalcors:
+          cors-configurations:
+            '[/**]':
+              allowedOrigins: "*"
+              allowedMethods: "*"
+              allowedHeaders: "*"
+
+
+      routes:
+        - id: PHARMA-CONNECT-STOCK-SERVICE
+          uri: lb://PHARMA-CONNECT-STOCK-SERVICE
+          predicates:
+            - Path=/stock-service/**
+          filters:
+            - RewritePath=/stock-service/(?<path>.*), /$\{path}
+
+
+        - id: PHARMA-CONNECT-AUTH
+          uri: lb://PHARMA-CONNECT-AUTH
+          predicates:
+            - Path=/auth-service/**
+          filters:
+            - RewritePath=/auth-service/(?<path>.*), /$\{path}
+#          metadata:
+#            cors:
+#              allowedOrigins: '*'
+#              allowedMethods:
+#                - GET
+#                - POST
+#                - PUT
+#                - PATCH
+#              allowedHeaders: '*'
+#              maxAge: 30
+
+# Eureka
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    register-with-eureka: true
+    fetch-registry: true
+    # Zipkin
+management:
+  tracing:
+    sampling:
+      probability: 1.0
+#  endpoints:
+#    web:
+#      cors:
+#        allowed-headers: "*"
+#        allowed-origins: "*"
+#        allowed-methods: "*"
+#        allow-credentials: true
+logging:
+  level:
+    root: info
+    org:
+      springframework:
+        cloud:
+          gateway: TRACE

@@ -1,0 +1,13 @@
+# Use an official PostgreSQL image as the base
+FROM postgres
+
+
+
+# Copy SQL script to container
+COPY init.sql /docker-entrypoint-initdb.d/
+
+# Install PostGIS extension
+RUN apt-get update && apt-get install -y postgis
+
+# Expose the PostgreSQL port
+EXPOSE 5432

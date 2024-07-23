@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Pharmacie MERZOUGUI F Zohra",
+    "location": [
+      36.2459931,
+      6.5759889
+    ],
+    "picture": "https://www.frontsigns.com/wp-content/uploads/2023/06/glass-door-pharmacy-design.jpg",
+    "upTimeId": 1,
+    "excluded": [
+      "77",
+      "78",
+      "20",
+      "15",
+      "1"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pharmacie Amal",
+    "location": [
+      36.242515,
+      6.566777
+    ],
+    "picture": "https://images.squarespace-cdn.com/content/v1/6357d9add6f0d711d5c27c9f/b62e3f02-ec34-4a6f-8ffe-9275fceb274a/parade-pharmacy.jpeg",
+    "upTimeId": 1,
+    "excluded": [
+      "24",
+      "2",
+      "1",
+      "3",
+      "5"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pharmacie hadjout",
+    "location": [
+      36.245546,
+      6.567676
+    ],
+    "picture": "https://images.squarespace-cdn.com/content/v1/6357d9add6f0d711d5c27c9f/b62e3f02-ec34-4a6f-8ffe-9275fceb274a/parade-pharmacy.jpeg",
+    "upTimeId": 1
+  },
+  {
+    "id": 4,
+    "name": "Pharmacie Berlat",
+    "location": [
+      36.241407,
+      6.556193
+    ],
+    "picture": "https://augustabusinessdaily.com/wp-content/uploads/2023/03/Living-Well-Pharmacy-1.jpeg",
+    "upTimeId": 1
+  },
+  {
+    "id": 5,
+    "name": "Pharmacie Nehal FZ'",
+    "location": [
+      36.25351536697639,
+      6.703975562310643
+    ],
+    "picture": "https://erepublic.brightspotcdn.com/dims4/default/1fe8975/2147483647/strip/false/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Ff5%2Fcf%2F29ccf752eb71593f399096cfbea4%2Fcanadian-pharmacy.jpg",
+    "upTimeId": 1,
+    "excluded": [
+      "77",
+      "78"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "pharmacie Riham",
+    "location": [
+      36.254672,
+      6.701239
+    ],
+    "picture": "https://c8.alamy.com/comp/MJADB1/traditional-chemist-shop-with-vintage-frontage-with-a-gentleman-customer-entering-the-front-door-viewed-from-the-street-on-a-sunny-day-MJADB1.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 7,
+    "name": "Pharmacie Illya",
+    "location": [
+      36.259044,
+      6.705436
+    ],
+    "picture": "https://c8.alamy.com/comp/BX948Y/a-pharmacy-in-a-uk-city-BX948Y.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 8,
+    "name": "Pharmacie Parade",
+    "location": [
+      36.257566,
+      6.698665
+    ],
+    "picture": "https://images.squarespace-cdn.com/content/v1/6357d9add6f0d711d5c27c9f/b62e3f02-ec34-4a6f-8ffe-9275fceb274a/parade-pharmacy.jpeg",
+    "upTimeId": 1,
+    "excluded": [
+      "77",
+      "78"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "PHARMACIE BOUSSOUF.M",
+    "location": [
+      36.263213,
+      6.485924
+    ],
+    "picture": "https://pharmafocusgroup.s3.eu-west-2.amazonaws.com/chanachemist.co.uk/15/siteimages/about-us-logo-lambeth-pharmacy-15.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 10,
+    "name": "Parapharmacie Bien Etre & Santé",
+    "location": [
+      36.263213,
+      6.485924
+    ],
+    "picture": "https://c8.alamy.com/comp/RYJ957/stalls-in-row-at-supermarket-parapharmacy-products-france-RYJ957.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 11,
+    "name": "pharmacie Imane",
+    "location": [
+      36.264692,
+      6.486330
+    ],
+    "picture": "https://www.frontsigns.com/wp-content/uploads/2023/06/glass-door-pharmacy-design.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 12,
+    "name": "PHARMACIE DELMI ABDERRAHIM BEY",
+    "location": [
+      36.261651,
+      6.484385
+    ],
+    "picture": "https://c8.alamy.com/comp/BX948Y/a-pharmacy-in-a-uk-city-BX948Y.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 13,
+    "name": "Pharmacie Sedrati Wafa",
+    "location": [
+      36.265597,
+      6.495705
+    ],
+    "picture": "https://www.olinspharmacy.co.uk/wp-content/uploads/2021/11/abt-front.jpg",
+    "upTimeId": 1
+  },
+  {
+    "id": 14,
+    "name": "Pharmacie Fenway",
+    "location": [
+      36.262228,
+      6.487308
+    ],
+    "picture": "https://s3-media0.fl.yelpcdn.com/bphoto/0sz_eCvlLddDAV6kPWTrgQ/1000s.jpg",
+    "upTimeId": 1
+  }
+]

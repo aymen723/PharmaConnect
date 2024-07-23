@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "PharmacyConnect",
+    "slug": "pharmacyconnect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Pharma_Connect.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/Pharma_Connect.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#15BD92"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow PharmacyConnect to access your camera",
+          "microphonePermission": "Allow PharmacyConnect to access your microphone",
+          "recordAudioAndroid": true
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3a5f47e8-69e8-40cd-a0ad-8cd3db20e5fa"
+      }
+    },
+    "owner": "aymen723"
+  }
+}

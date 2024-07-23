@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: payment
+  config:
+    import:
+      - configserver:http://localhost:9000
+  datasource:
+    url: jdbc:postgresql://localhost:5432/payment
+    password: password
+    username: admin
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+server:
+  port: 8060
+
+
+

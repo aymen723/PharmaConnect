@@ -1,0 +1,297 @@
+[
+  {
+    "name": "collyre",
+    "type": "TYPE",
+    "description": "gouttes ophtalmiques prescrites dans le cadre d'un examen ou d'un traitement local de l'œil"
+  },
+  {
+    "name": "insulin",
+    "type": "TYPE",
+    "description": "le produit est un type d'insuline"
+  },
+  {
+    "name": "oral",
+    "type": "CONSUMPTION",
+    "description": "ce produit consomé par la voie oral"
+  },
+  {
+    "name": "rectale",
+    "type": "CONSUMPTION",
+    "description": "ce produit consomé par la voie rectale"
+  },
+  {
+    "name": "200ml",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 200ml"
+  },
+  {
+    "name": "30ml",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 30ml"
+  },
+  {
+    "name": "pilules",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme de pilules consommables"
+  },
+  {
+    "name": "liquide",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme de liquidel"
+  },
+  {
+    "name": "comprimée",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme comprimé"
+  },
+  {
+    "name": "10mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 10mg"
+  },
+  {
+    "name": "400mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 400mg"
+  },
+  {
+    "name": "solide",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme de solide"
+  },
+  {
+    "name": "50mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 50mg"
+  },
+  {
+    "name": "acarbose",
+    "type": "TYPE",
+    "description": "Ce médicament est utilisé pour traiter une certaine forme de diabète appelée ''diabète de type 2'' "
+  },
+  {
+    "name": "0.5mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 0.5mg"
+  },
+  {
+    "name": "100mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 100mg"
+  },
+  {
+    "name": "100ml",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 100ml"
+  },
+  {
+    "name": "5mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 5mg"
+  },
+  {
+    "name": "250mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 250mg"
+  },
+  {
+    "name": "25mg",
+    "type": "DOSAGE",
+    "description": "ce produit se comsome par 25mg"
+  },
+  {
+    "name": "capsule",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous capsules"
+  },
+  {
+    "name": "cartridges",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme de cartouches"
+  },
+  {
+    "name": "sachets",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme de sachets"
+  },
+  {
+    "name": "contraception",
+    "type": "TYPE",
+    "description": "ce produit est utilise pour prévenir la grossesse"
+  },
+  {
+    "name": "antidiabétique",
+    "type": "TYPE",
+    "description": "ce produit est utilise pour lutter contre le diabète"
+  },
+  {
+    "name": "pommade",
+    "type": "TYPE",
+    "description": "ce produit est destiné à être appliqué sur la peau ou les muqueuses"
+  },
+  {
+    "name": "15g",
+    "type": "DOSAGE",
+    "description": "ce produit se contien 15g"
+  },
+  {
+    "name": "antibiotique",
+    "type": "TYPE",
+    "description": "ce produit est utilisé pour détruire ou empêcher la croissance de certains bactéricides"
+  },
+  {
+    "name": "200mg",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 200mg"
+  },
+  {
+    "name": "160mg",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 160mg"
+  },
+  {
+    "name": "500g",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 500g"
+  },
+  {
+    "name": "0.5mg",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 0.5mg"
+  },
+  {
+    "name": "3g",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 3g"
+  },
+  {
+    "name": "40mg",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 40mg"
+  },
+  {
+    "name": "7.5ml",
+    "type": "DOSAGE",
+    "description": "this product comes in dosages of 7.5ml"
+  },
+  {
+    "name": "antiviral",
+    "type": "TYPE",
+    "description": "ce produit est une substance active contre les virus"
+  },
+  {
+    "name": "antithyroïdien",
+    "type": "TYPE",
+    "description": "ce produit est un auto-anticorps produits contre les différents éléments constitutifs de la thyroïde"
+  },
+  {
+    "name": "antianémiant",
+    "type": "TYPE",
+    "description": "ce produit est utilisé pour diminuer l'anémie."
+  },
+  {
+    "name": "antihypertenseurs",
+    "type": "TYPE",
+    "description": "ces produit diminuent les chiffres des pressions artérielles systolique (maxima) et diastolique (minima) afin de prévenir les complications de l'hypertension.."
+  },
+  {
+    "name": "myorelaxant",
+    "type": "TYPE",
+    "description": "ce produit est utilisé pour la détente musculaire."
+  },
+  {
+    "name": "anti-acides",
+    "type": "TYPE",
+    "description": "ce produit est utilisé pour neutraliser l'excès d'acide dans l'estomac"
+  },
+  {
+    "name": "MENOPAUSE",
+    "type": "TYPE",
+    "description": "Un médicament à base de bêta-alanine, un acide aminé, peut être prescrit pour soulager les bouffées de chaleur."
+  },
+  {
+    "name": "antibactérien",
+    "type": "TYPE",
+    "description": "ce produit est active contre les bactéries"
+  },
+  {
+    "name": "Corticoïde",
+    "type": "TYPE",
+    "description": "ce produit est utilisé pour réduire la capacité de l'organisme à lutter contre les infections en réduisant l'inflammation"
+  },
+  {
+    "name": "Antimigraineux",
+    "type": "TYPE",
+    "description": "ce produit est active ayant pour effet de combattre la migraine."
+  },
+  {
+    "name": "antifongique",
+    "type": "TYPE",
+    "description": "ce produit est utilise pour détruire les champignons microscopiques (moisissures) ou empêche leur développement."
+  },
+  {
+    "name": "Céphalosporine",
+    "type": "TYPE",
+    "description": "ce produit est utilise fréquemment utilisées dans les infections cutanées et des tissus mous non compliquées, dues habituellement à des staphylocoques et à des streptocoques."
+  },
+  {
+    "name": "dentaire",
+    "type": "TYPE",
+    "description": "ce produit est utilise pur les maladie dentaire "
+  },
+  {
+    "name": "hypolipidémiant",
+    "type": "TYPE",
+    "description": "Médicament capable de diminuer une hyperlipidémie (augmentation du taux des lipides dans le sang). "
+  },
+  {
+    "name": "non-prescription",
+    "type": "TYPE",
+    "description": "Médicament acheter sans prescription."
+  },
+  {
+    "name": "produit de contraste",
+    "type": "TYPE",
+    "description": "Substance absorbée ou injectée dans une veine, qui permet de distinguer les vaisseaux et les éventuelles anomalies dans les organes lors d'un examen d'imagerie. Les produits de contraste sont souvent à base d'iode."
+  },
+  {
+    "name": "anti-reflux",
+    "type": "TYPE",
+    "description": "ce produit est utilisé comme traitement contre le reflux"
+  },
+  {
+    "name": "pénicilline",
+    "type": "TYPE",
+    "description": "ce produit est un Antibiotique provenant d'une moisissure ou obtenu par synthèse, utilisé dans le traitement de nombreuses maladies infectieuses"
+  },
+  {
+    "name": "prescription",
+    "type": "TYPE",
+    "description": "Médicament acheter avec prescription."
+  },
+  {
+    "name": "gel",
+    "type": "CONSUMPTION",
+    "description": "ce produit se présente sous forme de gel"
+  },
+  {
+    "name": "PARACETAMOL",
+    "type": "TYPE",
+    "description": "Médicament antalgique et antipyrétique (contre la douleur et la fièvre) "
+  },
+  {
+    "name": "antipyrétique",
+    "type": "TYPE",
+    "description": "Médicament Qui combat la fièvre. "
+  },
+  {
+    "name": "patch",
+    "type": "TYPE",
+    "description": "ce produit est utilise en patches applicable sur le corps."
+  },
+  {
+    "name": "anti-inflamation-p",
+    "type": "TYPE",
+    "description": "ce produit est utilise pour traiter les infalamation de peau."
+  }
+]

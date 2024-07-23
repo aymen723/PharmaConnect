@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "values": [
+      {
+        "day": "MONDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      },
+      {
+        "day": "TUESDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      },
+      {
+        "day": "WEDNESDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      },
+      {
+        "day": "THURSDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      },
+      {
+        "day": "FRIDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      },
+      {
+        "day": "SATURDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      },
+      {
+        "day": "SUNDAY",
+        "openTime": "07:30:00",
+        "closeTime": "17:00:00"
+      }
+    ]
+  }
+]

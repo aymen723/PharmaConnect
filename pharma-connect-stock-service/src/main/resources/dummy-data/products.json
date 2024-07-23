@@ -1,0 +1,643 @@
+[
+  {
+    "id": "1",
+    "name": "ABASAGLAR",
+    "tags": [
+      "insulin",
+      "cartridges",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 6708.11,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/5866.png",
+    "description": "C'est une insuline modifiée, tout à fait comparable à l'insuline humaine. ABASAGLAR est utilisé pour traiter le diabète sucré chez l'adulte, l'adolescent et l'enfant à partir de 2 ans.",
+    "pres": true,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=5866",
+    "para": false
+  },
+  {
+    "id": "2",
+    "name": "ABILIFY",
+    "tags": [
+      "comprimée",
+      "solide",
+      "50mg",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 6552.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2288.png",
+    "description": "est un antipsychotique. Son efficacité dans la schizophrénie et dans les troubles bipolaires de type I pourrait être due à l'association de son activité agoniste partiel sur le récepteur dopaminergique D2 et sérotoninergique 5-HT1a et de son activité antagoniste sur le récepteur sérotoninergique 5-HT2a.",
+    "pres": true,
+    "notice": "https://www.pharmnet-dz.com/notice.ashx?id=6330",
+    "para": false
+  },
+  {
+    "id": "3",
+    "name": "ABUFENE",
+    "tags": [
+      "comprimée",
+      "400mg",
+      "MENOPAUSE",
+      "non-prescription"
+    ],
+    "remboursable": false,
+    "price": 359.4,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/3034.png",
+    "description": "est un médicament contenant un acide aminé, la Béta-alanine, soulageant les bouffées de chaleur liées à la ménopause. Il s'agit d'un traitement non hormonal.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=3034",
+    "para": false
+  },
+  {
+    "id": "4",
+    "name": "BACTROBAN",
+    "tags": [
+      "pommade",
+      "15g",
+      "antibactérien",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 198,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1683.png",
+    "description": "Ce médicament est une pommade nasale contenant un antibiotique : la mupirocine. Ce médicament est indiqué dans le traitement local de certaines infections bactériennes à germes sensibles, les staphylocoques dorés, ces germes se trouvant fréquemment dans les narines.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=1683",
+    "para": false
+  },
+  {
+    "id": "5",
+    "name": "B-CORTOSONE",
+    "tags": [
+      "30ml",
+      "corticoïde ",
+      "oral",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 100,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4622.png",
+    "description": "un corticoïde synthétique utilisé principalement pour son effet anti-inflammatoire.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=4622",
+    "para": false
+  },
+  {
+    "id": "6",
+    "name": "BEDELIX",
+    "tags": [
+      "3g",
+      "sachets",
+      "anti-acides",
+      "non-prescrition"
+    ],
+    "remboursable": false,
+    "price": 387.24,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/3903.png",
+    "description": "Le médicament Bedelix est un pansement digestif à l'argile qui protège le tube digestif, utilisé dans le traitement symptomatique des manifestations fonctionnelles intestinales chez l'adulte (douleurs abdominales, ballonnements, constipation et diarrhée). Sa substance active est la Montmorillonite beidellitique",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=3903",
+    "para": false
+  },
+  {
+    "id": "7",
+    "name": "CABERNEX",
+    "tags": [
+      "oral",
+      "comprimée",
+      "0.5mg",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 2190,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/5812.png",
+    "description": "CABERLEX 0.5 est indiqué pour la prévention de la lactation physiologique tout de suite après l'accouchement et pour la supression de la lactation en cours : - Après l'accouchement quand la mère choisit de ne pas allaiter son enfant au sein ou que l'allaitement au sein est contre indiqué pour des raisons médicales liées à la mère ou au nouveau né.",
+    "pres": true,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "8",
+    "name": "CALCIBRO",
+    "tags": [
+      "2g",
+      "antidiabétique",
+      "comprimée",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 260.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/3338.png",
+    "description": "Ce médicament est une association de substances sédatives. Il est utilisé dans le traitement d'appoint des troubles légers du sommeil, de l'irritabilité et de la nervosité.",
+    "pres": false,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "9",
+    "name": "CALMIG",
+    "tags": [
+      "50mg",
+      "comprimée",
+      "Antimigraineux",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 419.3,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2471.png",
+    "description": "Ce médicament est un antimigraineux de la famille des triptans. Il contient un vasoconstricteur puissant, qui agit essentiellement sur les vaisseaux crâniens. Son action se manifeste environ 30 minutes après la prise du médicament. Il est utilisé dans le traitement de la crise de migraine",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=2471",
+    "para": false
+  },
+  {
+    "id": "10",
+    "name": "DANDREX",
+    "tags": [
+      "100ml",
+      "antifongique",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 458,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/472.png",
+    "description": "est utilisé pour traiter les pellicules et certaines infections du cuir chevelu (dermatite séborrhéique) . Il réduit les démangeaisons, la desquamation, les irritations et les rougeurs du cuir chevelu. Le sulfure de sélénium est également utilisé pour une affection qui provoque une décoloration de la peau (pityriasis versicolor).",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=472",
+    "para": false
+  },
+  {
+    "id": "11",
+    "name": "DAONIL",
+    "tags": [
+      "5mg",
+      "oral",
+      "comprimée",
+      "antidiabétique",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 85,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/3612.png",
+    "description": "Il est utilisé pour traiter un diabète non insulinodépendant (appelé également diabète de type 2 et ne nécessitant pas d'insuline),",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=3612",
+    "para": false
+  },
+  {
+    "id": "12",
+    "name": "DAROXIME",
+    "tags": [
+      "250mg",
+      "comprimée",
+      "Céphalosporine",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 555.66,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/709.png",
+    "description": "utilisés pour traiter diverses infections bactériennes.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/img/pdf.png",
+    "para": false
+  },
+  {
+    "id": "13",
+    "name": "ECONAZYL",
+    "tags": [
+      "30mg",
+      "pommade",
+      "antifongique",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 120,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1692.png",
+    "description": "Ce médicament est indiqué dans le traitement de certaines mycoses de la peau (affections cutanées dues à des champignons). Candidoses : · traitement des mycoses des plis non macérées : intertrigo génital, sous-mammaire, interdigital ; · traitement des mycoses des ongles : onyxis, périonyxis.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=1692",
+    "para": false
+  },
+  {
+    "id": "78",
+    "name": "Dolopatch Hyro-gel",
+    "tags": [
+      "anti-inflamation-p",
+      "patch",
+      "non-prescription"
+    ],
+    "remboursable": false,
+    "price": 400.10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlErh11OL9_guNM97yKdpAWTMwp7CTkgV9qg&s",
+    "description": "Dolopatch  est un anti-inflammatoire non stéroïdien (AINS). Il lutte localement contre l'inflammation et la douleur.Il est utilisé dans le traitement local des douleurs des petites articulations dues à l'arthrose, des tendinites, des entorses et contusions, des lombalgies.",
+    "pres": false,
+    "notice": null,
+    "para": true
+  },
+  {
+    "id": "14",
+    "name": "ECOVAR",
+    "tags": [
+      "150mg",
+      "anti-infectieux",
+      "comprimée",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 169.8,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/3001.png",
+    "description": "est indiqué dans le traitement local des mycoses (affections dues à des champignons microscopiques) de la vulve et du vagin parfois surinfecté.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=3001",
+    "para": false
+  },
+  {
+    "id": "15",
+    "name": "ELUDRIL",
+    "tags": [
+      "liquide",
+      "100ml",
+      "dentaire",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 1725.44,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1136.png",
+    "description": "est un médicament indiqué dans le traitement local d'appoint des affections de la cavité buccale et lors de soins post-opératoires en odontostomatologie. Ce médicament est réservé aux adultes et aux enfants de plus de 6 ans.",
+    "pres": true,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=1136",
+    "para": false
+  },
+  {
+    "id": "16",
+    "name": "FAGYX ",
+    "tags": [
+      "500mg",
+      "comprimée",
+      "oral",
+      "anti-infectieux",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 200.0,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2056.png",
+    "description": "Ce médicament est indiqué: · Chez l'adulte dans les infections suivantes: trichomonases urogénitales, vaginites non spécifiques, lambliases, amibiase et en prévention des infections lors de certaines interventions chirurgicales.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=2056",
+    "para": false
+  },
+  {
+    "id": "17",
+    "name": "FELDENE",
+    "tags": [
+      "comprimée",
+      "20mg",
+      "anti-inflammatoire",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 143,
+    "image": "https://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2767.png",
+    "description": "gélule est utilisé pour soulager certains symptômes de l'arthrose (maladie dégénérative des articulations), de la polyarthrite rhumatoïde et de la spondylarthrite ankylosante (affection rhumatologique de la colonne vertébrale), tels que le gonflement, la raideur et la douleur articulaire.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=2767",
+    "para": false
+  },
+  {
+    "id": "18",
+    "name": "FENAQUENE",
+    "tags": [
+      "100mg",
+      "anti-inflammatoire",
+      "rectale",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 87.6,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2723.png",
+    "description": "Traitement adjuvant des manifestations inflammatoires en rapport avec le domaine ORL.",
+    "pres": true,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=2723",
+    "para": false
+  },
+  {
+    "id": "19",
+    "name": "FENOFIBRATE MM",
+    "tags": [
+      "160mg",
+      "hypolipidémiant",
+      "comprimée",
+      "oral",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 903.9,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1579.png",
+    "description": "Ce médicament est un hypolipidémiant qui appartient à la famille des fibrates. Il permet d'abaisser le taux des graisses circulant dans le sang, cholestérol et triglycérides essentiellement.",
+    "pres": false,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=1579",
+    "para": false
+  },
+  {
+    "id": "20",
+    "name": "FENOXAM",
+    "tags": [
+      "0.005",
+      "anti-inflammatoire",
+      "catanee",
+      "non-prescription"
+    ],
+    "remboursable": true,
+    "price": 145.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1377.png",
+    "description": "Il lutte contre l'inflammation et la douleur, fait baisser la fièvre et fluidifie le sang. Il est utilisé dans le traitement symptomatique de l'arthrose, de la polyarthrite rhumatoïde et de la spondylarthrite ankylosante, lorsque d'autres AINS ne se sont pas révélés efficaces.",
+    "pres": false,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "21",
+    "name": "FER 3+",
+    "tags": [
+      "20mg",
+      "antianémiant",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 480.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1779.png",
+    "description": "Un médicament pour le traitement de l'anémie ferriprive (carence en fer). La préparation est un complexe macromoléculaire composé d'hydroxyde de fer III (fer trivalent, Fe 3+) et de l'excipient polymaltose.",
+    "pres": false,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "22",
+    "name": "GADOVIST",
+    "tags": [
+      "7.5ml",
+      "produit de contraste",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 400,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/573.png",
+    "description": "Produit de contraste destiné à l'imagerie par résonance magnétique (IRM) à visée diagnostique des territoires crâniens, rachidiens et des vaisseaux.",
+    "pres": false,
+    "notice": "https://pharmnet-dz.com/notice.ashx?id=573",
+    "para": false
+  },
+  {
+    "id": "23",
+    "name": "GALARA",
+    "tags": [
+      "150MG",
+      "anti-épileptique",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 2151.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/6263.png",
+    "description": "Un médicament utilisé pour le traitement de l'épilepsie et des convulsions.",
+    "pres": true,
+    "notice": "https://pharmnet-dz.com/notice.ashx?id=6263",
+    "para": false
+  },
+  {
+    "id": "24",
+    "name": "GASTRIUM",
+    "tags": [
+      "50mg",
+      "anti-reflux",
+      "anti-acides",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 168.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4451.png",
+    "description": "Ce médicament appartient à la famille des antiacides d'action locale. Il forme un gel visqueux qui surnage dans l'estomac et protège l'œsophage en cas de reflux du contenu de l'estomac.",
+    "pres": false,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "25",
+    "name": "GAVISCON",
+    "tags": [
+      "50mg",
+      "anti-reflux",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2917.png",
+    "description": "Ce médicament a pour but de soulager vos maux d'estomac. Les brûlures, aigreurs d'estomac, les remontées acides peuvent être dues à des modifications de l'alimentation.",
+    "pres": false,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "26",
+    "name": "GECTAPEN",
+    "tags": [
+      "solide",
+      "pénicilline",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 107.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/263.png",
+    "description": "Un antibiotique utilisé pour traiter diverses infections bactériennes.",
+    "pres": true,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=263",
+    "para": false
+  },
+  {
+    "id": "27",
+    "name": "LEXIN",
+    "tags": [
+      "40MG",
+      "comprimée",
+      "Céphalosporine",
+      "prescription"
+    ],
+    "remboursable": false,
+    "price": 1195.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/721.png",
+    "description": "Utilisé pour améliorer la circulation sanguine et les fonctions cérébrales.",
+    "pres": true,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=721",
+    "para": false
+  },
+  {
+    "id": "28",
+    "name": "ketum",
+    "tags": [
+      "60G",
+      "anti-inflammatoire",
+      "prescription",
+      "gel"
+    ],
+    "remboursable": false,
+    "price": 320.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1388.png",
+    "description": "Ce médicament contient un anti-inflammatoire non stéroïdien: le kétoprofène. Il est indiqué, chez l'adulte ",
+    "pres": true,
+    "notice": "https://pharmnet-dz.com/notice.ashx?id=1388",
+    "para": false
+  },
+  {
+    "id": "79",
+    "name": "Flector",
+    "tags": [
+      "anti-inflamation-p",
+      "patch",
+      "non-prescrition"
+    ],
+    "remboursable": false,
+    "price": 350.10,
+    "image": "https://moncoinsante.com/mcs/69297-large_default/tissugel-gel-1-diclofenac-analgesic-anti-inflammatory-10-patches.jpg",
+    "description": "Flector  est un anti-inflammatoire non stéroïdien (AINS). Il lutte localement contre l'inflammation et la douleur.Il est utilisé dans le traitement local des douleurs des petites articulations dues à l'arthrose, des tendinites, des entorses et contusions, des lombalgies.",
+    "pres": false,
+    "notice": null,
+    "para": true
+  },
+  {
+    "id": "29",
+    "name": "Valsartan",
+    "tags": [
+      "comprimée",
+      "antihypertenseurs ",
+      "160mg",
+      "prescription"
+    ],
+    "remboursable": true,
+    "price": 192.0,
+    "image": "https://www.pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/3090.png",
+    "description": "Ce médicament est habituellement utilisé pour diminuer la tension artérielle",
+    "pres": true,
+    "notice": "https://pharmanet-dz.com/notice.ashx?id=3090",
+    "para": false
+  },
+  {
+    "id": "30",
+    "name": "PARACETAMOL BIOCARE",
+    "tags": [
+      "500MG",
+      "antipyrétique",
+      "non-prescrition",
+      "PARACETAMOL",
+      "sachets"
+    ],
+    "remboursable": true,
+    "price": 152.00,
+    "image": "http://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2620.png",
+    "description": "Médicament antalgique et antipyrétique (contre la douleur et la fièvre).",
+    "pres": false,
+    "notice": "http://pharmanet-dz.com/notice.ashx?id=2620",
+    "para": false
+  },
+  {
+    "id": "31",
+    "name": "PARACETAMOL PHYSIOPHARM",
+    "tags": [
+      "500MG",
+      "antipyrétique",
+      "non-prescrition",
+      "PARACETAMOL",
+      "comprimée"
+    ],
+    "remboursable": true,
+    "price": 50.00,
+    "image": "http://pharmanet-dz.com/ImageHandler.ashx?imageurl=/img/medics/4141.png",
+    "description": "Médicament antalgique et antipyrétique (contre la douleur et la fièvre).",
+    "pres": false,
+    "notice": "",
+    "para": false
+  },
+  {
+    "id": "32",
+    "name": "Genouillère 3D Bande 179",
+    "tags": [
+      "orthopedic",
+      "adjustable",
+      "neoprene",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 1400,
+    "image": "https://dz.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/52/7473/1.jpg?2307",
+    "description": "An adjustable neoprene knee brace with dual stabilizers and open patella design for support and pain relief during physical activities.",
+    "pres": false,
+    "notice": null,
+    "para": false
+  },
+  {
+    "id": "36",
+    "name": "Pulse oximeter",
+    "tags": [
+      "medical device",
+      "pulse oximeter",
+      "portable",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 6000.00,
+    "image": "https://i0.wp.com/pharmadigit.dz/wp-content/uploads/2021/12/tinywow_maxtrit-2023-06-08T130118.090_25985949.webp?fit=500%2C500&ssl=1",
+    "description": "A portable handheld pulse oximeter for measuring oxygen saturation levels and pulse rate, suitable for home use and monitoring respiratory conditions.",
+    "pres": false,
+    "notice": null,
+    "para": false
+  },
+  {
+    "id": "37",
+    "name": "Cervical Traction/Spine",
+    "tags": [
+      "neck support",
+      "traction",
+      "adjustable",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 1.650,
+    "image": "https://cdn7.ouedkniss.com/1600/medias/announcements/images/20908102/Photo3.webp",
+    "description": "An adjustable cervical neck traction device with inflatable design to relieve neck and shoulder tension, promoting relaxation and pain relief.",
+    "pres": false,
+    "notice": null,
+    "para": false
+  },
+  {
+    "id": "40",
+    "name": "CHICCO Thermomètre pédiatrique 2en1 Dual Comfort 233500",
+    "tags": [
+      "medical device",
+      "digital",
+      "oral thermometer",
+      "non-prescrition"
+    ],
+    "remboursable": true,
+    "price": 300.35,
+    "image": "https://www.nidange-dz.com/wp-content/uploads/2019/04/ch6.jpg",
+    "description": "A digital oral thermometer with fast measurement and fever indicator, suitable for accurate temperature monitoring at home or in clinical settings.",
+    "pres": false,
+    "notice": null,
+    "para": false
+  },
+  {
+    "id": "77",
+    "name": "Kefentech patch",
+    "tags": [
+      "anti-inflamation-p",
+      "patch",
+      "non-prescription"
+    ],
+    "remboursable": false,
+    "price": 240.99,
+    "image": "https://i0.wp.com/nuskha.com.au/wp-content/uploads/2022/06/KefenTech-Plaster-3.jpg?fit=1080%2C770&ssl=1",
+    "description": "Le Kétoprofène  est un anti-inflammatoire non stéroïdien (AINS). Il lutte localement contre l'inflammation et la douleur.Il est utilisé dans le traitement local des douleurs des petites articulations dues à l'arthrose, des tendinites, des entorses et contusions, des lombalgies.",
+    "pres": false,
+    "notice": null,
+    "para": true
+  }
+]
